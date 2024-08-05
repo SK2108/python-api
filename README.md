@@ -4,7 +4,25 @@ Consuming an API with Python
 
 ## Create an environment
 
+```markdown
+python3 -m venv .venv
+```
+
+## Activate your environment
+
+```markdown
+source .venv/bin/activate
+```
+
+## Deactivate your environment
+
+```markdown
+deactivate
+```
+
 ## Install packages
+
+You can run the following command in your (.venv) terminal:
 
 ```markdown
 python3 -m pip install requests
