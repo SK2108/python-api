@@ -36,6 +36,12 @@ python3 main.py
 
 ## Testing the programme
 
+Type this command in your terminal:
+
+```markdown
+pytest
+```
+
 ## Useful links
 
 - [Missing module docstring](https://pylint.readthedocs.io/en/latest/user_guide/messages/convention/missing-module-docstring.html)
